@@ -1,7 +1,8 @@
-# Genetic-Algorithm
+# Genetic Algorithm
 
-<head><b>Genetic Algorithm </b> </head>
-<br> </br>
+<!DOCTYPE HTML>
+<html>
+
 <body>
 <p>
 This repository contains the genetic algorithm script developed to be used for the software part of the project I am working on.
@@ -11,3 +12,4 @@ with a plot at the end for sanity check.
 
 </p>
 </body>
+</html>
