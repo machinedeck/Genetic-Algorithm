@@ -1,6 +1,6 @@
 # Genetic Algorithm
 
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 This repository contains the genetic algorithm script developed to be used for the software part of the project I am working on.
 The algorithm was inspired by the organization and pattern of running the optimization process from a similar library called <a href="https://pygad.readthedocs.io/en/latest/" target="_blank">PyGAD</a>, but
